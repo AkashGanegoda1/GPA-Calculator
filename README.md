@@ -3,4 +3,4 @@
 3. Application Shortcut Will be there on the Desktop
 4. Thank You.
 
-Currently Working on a new Update
+** UPDATED **
